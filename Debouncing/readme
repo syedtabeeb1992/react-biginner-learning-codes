@@ -1,0 +1,1 @@
+The debounce() function forces a function to wait a certain amount of time before running again. The function is built to limit the number of times a function is called.
